@@ -1,0 +1,21 @@
+body 
+{ 
+    background-color: aquamarine;
+}
+main {
+    text-align: center;
+}
+p{
+    color: #ff0080;
+}
+a{
+    text-decoration: none;
+    background-color: #9900ff;
+    border-radius: 5px;
+    color:white;
+    padding: -10px;
+    margin: 7px;
+ }
+ h1{
+    color: #00ff00;
+ }
